@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻I’m currently working in TIM S.p.a. as PaaS/Saas software Engineer<br>🎓Master degree in Computer and Information Engineering<br>💡I love to create new things<br>🌱Always Learning something
+👩🏻‍💻I’m currently working in TIM S.p.a. as PaaS/Saas Software Engineer<br>🎓Master degree in Computer and Information Engineering at University of Rome Tor Vergata<br>💡I love to create new things<br>🌱Always Learning something
 
 
 ## 🌐 Socials:
