@@ -3,9 +3,7 @@
 
 
 ## 🌐 Socials:
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="it_IT" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="tiziana-mannucci-09903119a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/tiziana-mannucci-09903119a?trk=profile-badge">Tiziana Mannucci</a></div>
-              
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/titiana_mn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiziana-mannucci-09903119a/) [![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)](https://github.com/titianaMannu)
 
 # 💻 Tech Stack:
